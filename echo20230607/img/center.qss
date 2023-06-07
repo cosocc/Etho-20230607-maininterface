@@ -1,0 +1,54 @@
+
+#remoteDesktop_btnFrame_obj{
+
+	border-left:1px solid rgb(0,0,0);
+	border-top:1px solid rgb(0,0,0);
+}
+
+#echoOpertion_btnFrame_obj{
+
+	border-left:1px solid rgb(0,0,0);
+	border-top:1px solid rgb(0,0,0);
+}
+#centralControlCommand_btnFrame_obj{
+
+	border-left:1px solid rgb(0,0,0);
+	border-top:1px solid rgb(0,0,0);
+}
+#MaterialManageMent_btnFrame_obj{
+
+	border-left:1px solid rgb(0,0,0);
+	border-top:1px solid rgb(0,0,0);
+	border-bottom:1px solid rgb(0,0,0);
+}
+#nullbtnFrame_btnFrame_obj{
+
+	border-left:1px solid rgb(0,0,0);
+	border-top:1px solid rgb(0,0,0);
+	border-bottom:1px solid rgb(0,0,0);
+}
+#edgeQframe_obj{
+	border:1px solid rgb(0,96,172);
+}
+
+#titlebar_obj QToolButton{
+	height:32px;
+	background-color: transparent;
+	color: #FFF;
+	font-family: Times New Roman; 
+}
+#titlebar_obj QToolButton:hover{
+
+	background-color: rgba(0, 96, 172, 0.1);
+}
+
+#titlebar_obj QLabel{
+	font-family: Times New Roman; 
+	background-color: transparent;
+	color: #FFF;
+}
+#titlebar_obj QMenu{
+
+	background-color: transparent;
+	color: #FFF;
+}
